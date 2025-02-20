@@ -18,6 +18,9 @@ A Python-based XML request parser that processes hotel availability requests, va
 
 ## Installation
 
+git clone https://github.com/Pechi77/xml-request-parser.git
+
+cd xml-request-parser
 
 
 
